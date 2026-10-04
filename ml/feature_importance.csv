@@ -1,0 +1,43 @@
+feature,importance
+categorical__supplier_tier_Tier-1,0.28468606
+numerical__risk_multiplier,0.19006297
+numerical__route_distance_km,0.13291346
+numerical__supplier_delay_rate,0.09432744
+numerical__inventory_coverage_ratio,0.061393205
+numerical__congestion_index,0.042804565
+categorical__supplier_name_TransPacific Freight,0.03012385
+categorical__shipping_mode_Standard Ground,0.01119722
+numerical__weather_risk_index,0.011154944
+numerical__inventory_level,0.009494946
+categorical__shipping_mode_Air Freight,0.007615222
+numerical__shipping_cost,0.0075432537
+"categorical__destination_Dallas, US",0.0064890906
+"categorical__origin_Tokyo, JP",0.006164526
+numerical__lead_time_to_distance_ratio,0.00601393
+numerical__lead_time_days,0.0059358254
+categorical__supplier_tier_Tier-2,0.005638087
+"categorical__origin_Chicago, US",0.0055975122
+categorical__shipping_mode_Ocean Intermodal,0.0055254744
+categorical__product_category_Industrial Machinery,0.005491539
+"categorical__destination_Los Angeles, US",0.0050900225
+categorical__shipping_mode_Express Carrier,0.0049006655
+categorical__supplier_name_Bavaria Logistics Parts,0.0045228708
+"categorical__destination_Singapore, SG",0.0042748847
+categorical__product_category_Automotive Assemblies,0.0042627985
+numerical__order_quantity,0.004210573
+categorical__supplier_name_Shenzhen Silicon Ltd,0.00397998
+"categorical__destination_Frankfurt, DE",0.00381311
+"categorical__origin_Busan, KR",0.003780258
+"categorical__origin_Munich, DE",0.003565554
+categorical__supplier_name_FastTrack Assembly Co,0.0035385971
+categorical__product_category_Pharmaceuticals,0.0033106199
+"categorical__origin_Taipei, TW",0.003088693
+"categorical__origin_Shenzhen, CN",0.0028148186
+categorical__supplier_name_Nordic Raw Materials,0.0027879218
+categorical__supplier_name_GlobalTech Micro,0.0023841073
+categorical__product_category_Semiconductors & Electronics,0.0023071633
+"categorical__destination_Rotterdam, NL",0.002300804
+categorical__product_category_Consumer Electronics,0.0020213136
+categorical__supplier_name_Delta Industrial Supplies,0.0016355622
+categorical__supplier_name_Apex Auto Components,0.0012365766
+categorical__supplier_tier_Tier-3,0.0
